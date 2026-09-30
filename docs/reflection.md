@@ -1,0 +1,4 @@
+This is the first time I'm actually working properly on GITHUB. I have a project uploaded here that I did over the summer but never really went deep into how GITHUB actually worked. I learned about branches and repositories and how the pull requests actually work from GitHub's side. 
+The most challenging part was just the GITHUB layout and finding where everything is. It's not that easy to navigate, so it took me a while to do all the requests.
+I really enjoyed the relief of understanding GitHub finally. It is fun to work on and track the project, and all the little details are very useful. 
+If I had more time and requirements, I'd do a deeper dive into what else I can do on GITHUB and learn all the tricks to navigate it. For this assignment specifically, I would actually add more facts and images and see what else I can improve on. 
